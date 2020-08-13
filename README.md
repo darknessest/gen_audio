@@ -20,25 +20,27 @@
 > 信息越多越好。尺寸越小越好。
 
 在以下图片中，你可以看到音频文件的最常见表示形式：
-<p align =" center">
-![音频](img/1.jpeg)
+<p align="center">
+	<img src="https://github.com/darknessest/gen_audio/blob/master/img/1.jpeg">
 </p>
 
 但实际上你可以提取更多特征，例如：
 
 - Mel-frequency spectrogram:
-<p align =" center">
-![mel](img/mel-freq.png)
+<p align="center">
+	<img src="https://github.com/darknessest/gen_audio/blob/master/img/mel-freq.png">
 </p>
+
 - MFCC:
-<p align ="center">
-![MFCCs](img/mfcc.png)
+<p align="center">
+	<img src="https://github.com/darknessest/gen_audio/blob/master/img/mfcc.png">
 </p>
 
 - spectrum of frequencies:
-<p align ="center">
-![Spectogram](img/sofreq.png)
+<p align="center">
+	<img src="https://github.com/darknessest/gen_audio/blob/master/img/sofreq.png">
 </p>
+
 - 还有很多...
 
 这是必须要做的初步步骤。**如果没有完成此步骤，我们将无法前进。** 每个人都应该尝试亲手完成这一步，这样你就了解我们正在处理哪些数据。了解数据可能会为你提供进一步的见解。
